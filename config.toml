@@ -1,6 +1,6 @@
 baseURL = "https://nifty-hopper-c867ae.netlify.app/"
 title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
-theme = "andromeda-light"
+#
 # post pagination
 paginate = "6"
 # post excerpt
