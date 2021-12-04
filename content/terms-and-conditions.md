@@ -1,12 +1,13 @@
 ---
-title: "Terms & Conditions"
-date: "2021-07-16"
-layout: "terms-and-conditions"
-draft: false
+title: Syarat dan Ketentuan Berlaku
+date: 2021-07-16
+layout: terms-and-conditions
+description: By Using The Service Or Clicking “I Agree”, The User Is Agreeing To Be
+  Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For
+  The Benefit Of A Company, Then The User Represents And Warrants That It Has The
+  Necessary Authority To Agree To This Agreement On The Company’s
 
-description: "By Using The Service Or Clicking “I Agree”, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s"
 ---
-
 ### 1. Definitions
 We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
 
