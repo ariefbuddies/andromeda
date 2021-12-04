@@ -4,12 +4,12 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x"
-logo_width = "240x"
+logo_width = "100x"
 # logo text will only show when logo is missing.
 logo_text = "Bening Abadi Jogja"
 # OpenGraph / Twitter Card metadata
 description = "Bening Abadi Jogja"
-author = "Themefisher"
+author = "Bening"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
