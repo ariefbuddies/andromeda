@@ -19,13 +19,13 @@ footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo t
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Bening](https://themefisher.com/) & Developed By [Bening](https://gethugothemes.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
 
 # buy premium popup
-buy_premium_popup = true
+buy_premium_popup = false
 
 # Main Sections
 mainSections= ["blog"]
@@ -39,7 +39,7 @@ email = ["info@andromeda.io", "smith@anderson.io", "john@anderson.io"]
 # imaging processing
 [imaging]
 # Default JPEG or WebP quality setting. Default is 100.
-quality = 100
+quality = 70
 
 # Preloader
 [preloader]
@@ -48,7 +48,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "Buy Premium"
 link = "https://gethugothemes.com/products/andromeda/"
 
@@ -61,7 +61,7 @@ button = "I Accept"
 
 # call-to-action
 [cta]
-enable = true
+enable = false
 title = "Get Andromeda-Premium Now"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Download The Theme"
