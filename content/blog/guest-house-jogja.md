@@ -23,6 +23,4 @@ Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare 
 
 Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
 
-![](uploads/blog/03.jpg)
-
-![](uploads/user-img/07.jpg)
+![](images/blog/gh1.jpg)
