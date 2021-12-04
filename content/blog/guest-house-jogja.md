@@ -9,4 +9,6 @@ name = ""
 +++
 Guest HOUSE jogjaaaaaa
 
-![](images/blog/gh1.jpg)
+> 1. ![gh](images/blog/gh1.jpg "gh")dvdd
+> 2. dvdvd
+> 3. d
