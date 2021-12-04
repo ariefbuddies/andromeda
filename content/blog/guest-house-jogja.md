@@ -1,20 +1,19 @@
 ---
-date: "2021-11-05"
-title: "Guest House Jogja."
-image: "uploads/gh1.jpg"
-author_info: 
-  name: "Abdullah Al Shifat"
-  image: "images/author/abdullah.jpg"
-draft: false
----
+date: 2021-11-05
+title: Guest House Jogja.
+image: uploads/gh1.jpg
+author_info:
+  name: Abdullah Al Shifat
+  image: images/author/abdullah.jpg
 
+---
 Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
 
 Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
 
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
+> Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
 >
 > <cite>!Alexender Smith</cite>
 
@@ -23,3 +22,7 @@ Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Preti
 Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
 
 Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+
+![](uploads/blog/03.jpg)
+
+![](uploads/user-img/07.jpg)
