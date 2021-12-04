@@ -1,7 +1,7 @@
 # main menu
 [[main]]
 name = "Home"
-url = ""
+url = "/"
 weight = 1
 
 [[main]]
@@ -23,24 +23,24 @@ hasChildren = true
   parent = "Pages"
   name = "Blog Details"
   url = "blog/post-1/"
-  weight = 1
+  weight = 5
 
   [[main]]
   parent = "Pages"
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
-  weight = 2
+  weight = 6
   
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 7
 
 
 [[main]]
 name = "Sewa Motor Jogja"
 url = "contact/"
-weight = 6
+weight = 8
 
 
 # footer menu
