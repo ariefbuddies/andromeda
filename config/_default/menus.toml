@@ -15,9 +15,20 @@ url = "blog/"
 weight = 3
 
 [[main]]
+name = "Contact"
+url = "contact/"
 weight = 4
+
+
+[[main]]
+name = "Sewa Motor Jogja"
+url = "contact/"
+weight = 5
+
+[[main]]
+weight = 6
 name = "Pages"
-hasChildren = false
+hasChildren = true
 
   [[main]]
   parent = "Pages"
@@ -29,16 +40,6 @@ hasChildren = false
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
   
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 5
-
-
-[[main]]
-name = "Sewa Motor Jogja"
-url = "contact/"
-weight = 6
 
 
 # footer menu
