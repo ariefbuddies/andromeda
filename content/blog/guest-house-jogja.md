@@ -8,3 +8,5 @@ name = ""
 
 +++
 ![](images/blog/logobening2.png)Guest HOUSE jogjaaaaaa
+
+![](images/blog/brands/06-colored.png)
