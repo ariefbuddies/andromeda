@@ -17,7 +17,7 @@ light = "#FAFAFA"
 primary_color = "#FE6019"
 
 # font variable
-h1 = "48px"
+h1 = "24px"
 h1_md = "38px"
 h2 = "38px"
 h2_md = "30px"
