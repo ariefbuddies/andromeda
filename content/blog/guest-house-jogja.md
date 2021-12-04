@@ -1,7 +1,7 @@
 ---
 date: 2021-11-05
 title: Guest House Jogja.
-image: uploads/gh1.jpg
+image: uploads/03.jpg
 author_info:
   name: Abdullah Al Shifat
   image: images/author/abdullah.jpg
