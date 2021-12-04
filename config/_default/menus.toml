@@ -23,13 +23,13 @@ hasChildren = true
   parent = "Pages"
   name = "Blog Details"
   url = "blog/post-1/"
-  weight = 7
+  weight = 1
 
   [[main]]
   parent = "Pages"
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
-  weight = 8
+  weight = 2
   
 [[main]]
 name = "Contact"
