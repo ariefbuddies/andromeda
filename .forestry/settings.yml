@@ -15,7 +15,7 @@ sections:
   create: all
   match: "*"
 upload_dir: assets/images/blog
-public_path: uploads
+public_path: images/blog
 front_matter_path: "/assets/images"
 use_front_matter_path: false
 file_template: ":filename:"
