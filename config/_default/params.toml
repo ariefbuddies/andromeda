@@ -19,7 +19,7 @@ footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo t
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # copyright
-copyright = "Designed By [Bening](https://themefisher.com/) & Developed By [Bening](https://gethugothemes.com/)"
+copyright = "Bening Abadi @2022"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
