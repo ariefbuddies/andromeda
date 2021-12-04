@@ -7,8 +7,4 @@ image = ""
 name = ""
 
 +++
-Guest HOUSE jogjaaaaaa
-
-> 1. ![gh](images/blog/gh1.jpg "gh")dvdd
-> 2. dvdvd
-> 3. d
+![](images/blog/logobening2.png)Guest HOUSE jogjaaaaaa
