@@ -1,7 +1,6 @@
 ---
-title: "contact"
-layout: "contact"
-draft: false
+title: Kontak kita
+layout: contact
+contact_image: images/vectors/contact.png
 
-contact_image: "images/vectors/contact.png"
 ---
