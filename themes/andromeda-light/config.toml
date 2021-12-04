@@ -1,10 +1,7 @@
-# This file is for render site varibles and plugins
-# don't remove this file.
-# The presence of this file is for compatibility with Blogdown and Forestry.
-#
-# The actual configuration files are stored in the `config/_default/` folder.
-
-
+######################## default configuration ####################
+baseURL = "https://nifty-hopper-c867ae.netlify.app/"
+title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+theme = "andromeda-light"
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
