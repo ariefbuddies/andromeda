@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 ######################## default configuration ####################
 baseURL = "https://nifty-hopper-c867ae.netlify.app/"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+title = "Bening Abadi Jogja-Pusat Sewa Motor - Rental Mobil - Penginapan - Guest House"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"
@@ -10,7 +10,6 @@ summaryLength = "10"
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 
 ############################# Modules ##############################
 [module]
