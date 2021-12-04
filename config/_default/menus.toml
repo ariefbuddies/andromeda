@@ -37,6 +37,12 @@ url = "contact/"
 weight = 5
 
 
+[[main]]
+name = "Sewa Motor Jogja"
+url = "contact/"
+weight = 8
+
+
 # footer menu
 [[footer]]
 name = "About"
