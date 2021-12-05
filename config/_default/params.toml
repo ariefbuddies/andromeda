@@ -13,7 +13,7 @@ author = "Bening"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Syarat Dan Ketentuan Berlaku.Jam Operasional 09.00 – 22.00 WIB.Pengantaran dan pengambilan mobil/motor mulai jam 09.00-21.00 WIB. Diluar jam diatas bisa langsung datang ke garasi kami.3 Tanda pengenal/ID (KTP,NPWP,SIM,PASPORT,ID KERJA,BPJS).No Telp HP customer yang bisa dihubungiTanpa uang jaminan.Overtime 10% per jam dari Tarif Sewa.Saat hari High Season harga berbeda dengan harga hari normal"
+footer_info = "<p>Syarat Dan Ketentuan Berlaku.Jam Operasional 09.00 – 22.00 WIB.Pengantaran dan pengambilan mobil/motor mulai jam 09.00-21.00 WIB. Diluar jam diatas bisa langsung datang ke garasi kami.3 Tanda pengenal/ID (KTP,NPWP,SIM,PASPORT,ID KERJA,BPJS).No Telp HP customer yang bisa dihubungiTanpa uang jaminan.Overtime 10% per jam dari Tarif Sewa.Saat hari High Season harga berbeda dengan harga hari normal</p>"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
